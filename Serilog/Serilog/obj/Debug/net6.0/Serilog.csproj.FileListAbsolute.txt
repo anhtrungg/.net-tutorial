@@ -1,0 +1,15 @@
+C:\.net-tutorial\Serilog\Serilog\bin\Debug\net6.0\Serilog.exe
+C:\.net-tutorial\Serilog\Serilog\bin\Debug\net6.0\Serilog.deps.json
+C:\.net-tutorial\Serilog\Serilog\bin\Debug\net6.0\Serilog.runtimeconfig.json
+C:\.net-tutorial\Serilog\Serilog\bin\Debug\net6.0\Serilog.dll
+C:\.net-tutorial\Serilog\Serilog\bin\Debug\net6.0\ref\Serilog.dll
+C:\.net-tutorial\Serilog\Serilog\bin\Debug\net6.0\Serilog.pdb
+C:\.net-tutorial\Serilog\Serilog\obj\Debug\net6.0\Serilog.csproj.AssemblyReference.cache
+C:\.net-tutorial\Serilog\Serilog\obj\Debug\net6.0\Serilog.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net-tutorial\Serilog\Serilog\obj\Debug\net6.0\Serilog.AssemblyInfoInputs.cache
+C:\.net-tutorial\Serilog\Serilog\obj\Debug\net6.0\Serilog.AssemblyInfo.cs
+C:\.net-tutorial\Serilog\Serilog\obj\Debug\net6.0\Serilog.csproj.CoreCompileInputs.cache
+C:\.net-tutorial\Serilog\Serilog\obj\Debug\net6.0\Serilog.dll
+C:\.net-tutorial\Serilog\Serilog\obj\Debug\net6.0\ref\Serilog.dll
+C:\.net-tutorial\Serilog\Serilog\obj\Debug\net6.0\Serilog.pdb
+C:\.net-tutorial\Serilog\Serilog\obj\Debug\net6.0\Serilog.genruntimeconfig.cache
